@@ -1,0 +1,16 @@
+body {
+  padding-top: 50px;
+  background-color: #002E62;
+  color: #85949F;
+}
+img {
+	margin: auto;
+}
+.main-banner {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.photo-title {
+	padding-bottom: 10px;
+}
